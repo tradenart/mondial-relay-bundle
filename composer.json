@@ -1,5 +1,5 @@
 {
-	"name" : "ernadoo/mondial-relay-bundle",
+	"name" : "tradenart/mondial-relay-bundle",
 	"type" : "symfony-bundle",
 	"description" : "Mondial Relay Bundle for Symfony",
 	"keywords" : [
@@ -22,7 +22,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"Ernadoo\\MondialRelayBundle\\" : ""
+			"Tradenart\\MondialRelayBundle\\" : ""
 		}
 	},
 	"extra": {
