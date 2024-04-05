@@ -1,5 +1,5 @@
 {
-	"name" : "tradenart/mondial-relay-bundle",
+	"name" : "ernadoo/mondial-relay-bundle",
 	"type" : "symfony-bundle",
 	"description" : "Mondial Relay Bundle for Symfony",
 	"keywords" : [
