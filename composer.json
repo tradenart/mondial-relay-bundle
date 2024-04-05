@@ -14,7 +14,7 @@
 	"require" : {
 		"php" : "^7.1 || ^8.0",
 		"quentinbontemps/php-mondialrelay-api" : "^1.0",
-		"symfony/framework-bundle" : "^5.4 || ^6.4",
+		"symfony/framework-bundle" : "^4.4 || ^5.4 || ^6.4",
 		"symfony/profiler-pack" : "*"
 	},
 	"config" : {
